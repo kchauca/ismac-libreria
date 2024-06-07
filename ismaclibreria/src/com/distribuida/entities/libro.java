@@ -1,5 +1,5 @@
 package com.distribuida.entities;
-import import java.util.Date;
+import import  java.util.Date;
 public class libro {
 	
 	
